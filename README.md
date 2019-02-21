@@ -11,8 +11,8 @@
 - [ 算法](https://book.douban.com/subject/19952400/)
 - [ 算法设计与应用](https://book.douban.com/subject/27204953/)
 - [ 算法之美](https://book.douban.com/subject/30155731/)
-- [ 数学之美](https://book.douban.com/subject/10750155/)
 - [ 编程珠玑](https://book.douban.com/subject/26302533/)
+- [ 数学之美](https://book.douban.com/subject/10750155/)
 - [ 计算机程序设计的艺术](https://book.douban.com/subject/1130500/)
 - [ 算法导论](https://book.douban.com/subject/20432061/)
 
@@ -27,9 +27,9 @@
 ## 代码质量
 
 - [ 代码整洁之道](https://book.douban.com/subject/4199741/)
+- [ 程序设计实践](https://book.douban.com/subject/1173548/)
 - [ 重构](https://book.douban.com/subject/4262627/)
 - [ 程序员修炼之道：从小工到专家](https://book.douban.com/subject/5387402/)
-- [ 程序设计实践](https://book.douban.com/subject/1173548/)
 - [ 软件设计重构](https://book.douban.com/subject/26854236/)
 - [ 修改代码的艺术](https://book.douban.com/subject/2248759/)
 - [ 编写可读代码的艺术](https://book.douban.com/subject/10797189/)
@@ -126,11 +126,11 @@
 
 - [ 孙子兵法](https://book.douban.com/subject/1949420/)
 - [ 银河系漫游指南](https://book.douban.com/subject/1394364/)
+- [ 哥德尔、艾舍尔、巴赫](https://book.douban.com/subject/1291204/)
 - [ 别闹了，费曼先生](https://book.douban.com/subject/1037602/)
 - [ 别逗了，费曼先生](https://book.douban.com/subject/1391772/)
-- [ 编码宝典](https://book.douban.com/subject/27077159/)
 - [ 禅与摩托车维修艺术](https://book.douban.com/subject/6811366/)
-- [ 哥德尔、艾舍尔、巴赫](https://book.douban.com/subject/1291204/)
+- [ 编码宝典](https://book.douban.com/subject/27077159/)
 
 ## 其他
 
