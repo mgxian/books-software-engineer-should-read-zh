@@ -13,7 +13,7 @@
 - [ 算法之美](https://book.douban.com/subject/30155731/)
 - [ 编程珠玑](https://book.douban.com/subject/26302533/)
 - [ 数学之美](https://book.douban.com/subject/10750155/)
-- [ 计算机程序设计的艺术](https://book.douban.com/subject/1130500/)
+- [ 计算机程序设计的艺术](https://book.douban.com/subject/26681685/)
 - [ 算法导论](https://book.douban.com/subject/20432061/)
 
 ## 设计模式
