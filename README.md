@@ -49,7 +49,7 @@
 - [测试驱动开发](https://book.douban.com/subject/1230036/)
 - [测试驱动开发的艺术](https://book.douban.com/subject/5326182/)
 
-## 编程范型
+## 编程范式
 
 - [七周七语言](https://book.douban.com/subject/10555435/)
 - [函数式编程思维](https://book.douban.com/subject/26587213/)
