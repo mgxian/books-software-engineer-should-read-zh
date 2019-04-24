@@ -18,9 +18,9 @@
 
 ## 设计模式
 
-- [Head First 设计模式](https://book.douban.com/subject/2243615/)
-- [图解设计模式](https://book.douban.com/subject/26933281/)
 - [设计模式的艺术](https://book.douban.com/subject/20493657/)
+- [图解设计模式](https://book.douban.com/subject/26933281/)
+- [Head First 设计模式](https://book.douban.com/subject/2243615/)
 - [设计模式之禅](https://book.douban.com/subject/25843319/)
 - [设计模式](https://book.douban.com/subject/1052241/)
 - [实现模式](https://book.douban.com/subject/20415000/)
@@ -31,7 +31,7 @@
 - [程序设计实践](https://book.douban.com/subject/1173548/)
 - [程序设计实践英文版](https://book.douban.com/subject/26712028/)
 - [编写可读代码的艺术](https://book.douban.com/subject/10797189/)
-- [重构](https://book.douban.com/subject/26575459/)
+- [重构（第2版）](https://book.douban.com/subject/33400354/)
 - [软件设计重构](https://book.douban.com/subject/26854236/)
 - [修改代码的艺术](https://book.douban.com/subject/2248759/)
 - [修改软件的艺术](https://book.douban.com/subject/27151925/)
