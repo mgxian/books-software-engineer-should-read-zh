@@ -47,6 +47,7 @@
 
 - [测试驱动开发](https://book.douban.com/subject/1230036/)
 - [测试驱动开发的艺术](https://book.douban.com/subject/5326182/)
+- [测试驱动的面向对象软件开发](https://book.douban.com/subject/4910582/)
 
 ## 编程范式
 
